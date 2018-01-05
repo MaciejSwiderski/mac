@@ -1,5 +1,5 @@
 package org.java2.maciej.swiderski.zadanie009ogolne.zadanie5;
-// Bardzo dobrze. Każda metoda przygotowana osobno przyjmująca argumenty i zwracająca wynik.
+
 public class Calculator {
 
     public int addition(int a, int b) {
